@@ -1,12 +1,5 @@
 # Food-Image-Recognition
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Stargazers](https://img.shields.io/github/stars/MaharshSuryawala/Food-Image-Recognition?style=flat-square)]()
-[![Followers](https://img.shields.io/github/followers/MaharshSuryawala?style=flat-square)](https://github.com/MaharshSuryawala)
-[![MIT License][license-shield]][license-url]
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/MaharshSuryawala/Food-Image-Recognition)
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -25,7 +18,6 @@
     - [Heat-Map & Class-Activation-Map](#heat-map--class-activation-map)
   - [Contributing](#contributing)
   - [License](#license)
-  - [Contact](#contact)
   - [References](#references)
   - [Acknowledgements](#acknowledgements)
 
@@ -109,13 +101,6 @@ Any contributions you make are **greatly appreciated**.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<!-- CONTACT -->
-## Contact
-[![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/maharsh-suryawala-05410312b/) 
-
-Maharsh Suryawala - [Portfolio](https://maharshsuryawala.github.io/maharshsuryawala/)
-
-Project Link: [https://github.com/MaharshSuryawala/Food-Image-Recognition](https://github.com/MaharshSuryawala/Food-Image-Recognition)
 
 ## References
 
@@ -135,12 +120,9 @@ Project Link: [https://github.com/MaharshSuryawala/Food-Image-Recognition](https
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/MaharshSuryawala)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
 
 
 <!-- MARKDOWN LINKS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MaharshSuryawala/Food-Image-Recognition?style=flat-square 
-[contributors-url]: https://github.com/MaharshSuryawala/Food-Image-Recognition/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/MaharshSuryawala/Food-Image-Recognition?style=flat-square?style=flat-square
-[license-url]: https://github.com/MaharshSuryawala/Food-Image-Recognition?style=flat-square/blob/master/LICENSE.txt
+
